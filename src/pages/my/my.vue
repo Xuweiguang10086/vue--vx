@@ -2,7 +2,7 @@
   <view class="container">
     <view class="header">个人中心</view>
     <view class="content">
-      <text>系统管理员，欢迎回来。</text>
+      <text>系统管理员，欢迎回来！！！！</text>
     </view>
   </view>
 </template>
