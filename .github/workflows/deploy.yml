@@ -39,4 +39,5 @@ jobs:
 
       - name: 清理密钥
         if: always()
+
         run: rm -f private.key
