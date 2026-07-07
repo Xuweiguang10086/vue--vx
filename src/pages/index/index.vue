@@ -13,7 +13,7 @@ import {onMounted} from "@vue/runtime-core";
 
 onMounted(async () => {
   uni.request({
-    url: ' https://xwg.juntaitec.cn/request/test',  //仅为示例，并非真实接口地址。
+    url: ' https://xwg.juntaitec.cn/wechat/test',  //仅为示例，并非真实接口地址。
     data: {
       text: 'uni.request'
     },
