@@ -20,10 +20,7 @@ onMounted(async () => {
     header: {
       'custom-header': 'hello' //自定义请求头信息
     },
-    success: (res) => {
-      console.log(res.data);
-      this.text = 'request success';
-    }
+
   });
 })
 </script>
