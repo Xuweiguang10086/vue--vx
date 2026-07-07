@@ -21,6 +21,7 @@ onMounted(async () => {
       'custom-header': 'hello' //自定义请求头信息
     },
 
+
   });
 })
 </script>
